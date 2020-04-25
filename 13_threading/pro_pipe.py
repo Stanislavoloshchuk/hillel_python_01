@@ -1,3 +1,7 @@
+#task_01
+
+#task_02
+
 from multiprocessing import Process, Pipe
 from random import randint
 from os import getpid
